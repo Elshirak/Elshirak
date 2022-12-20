@@ -4,7 +4,7 @@
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, QA
  - 🔎 &nbsp;&nbsp; Improving: language skills
- - :sparkling_heart: &nbsp;&nbsp; Fun fact: I love basketball and chess
+ - :sparkling_heart: &nbsp;&nbsp; Fun fact: I love to play basketball and chess
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
 
