@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "42 11 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -32,8 +32,8 @@ jobs:
 
           # Options
           user: elshirak
-          template: classic
-          base: activity, community, repositories, metadata
+          template: repository
+          base: header, activity, community, repositories, metadata
           base_hireable: yes
           config_timezone: Asia/Yerevan
           plugin_achievements: yes
@@ -44,7 +44,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 4
+          plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
 #          plugin_isocalendar: yes
