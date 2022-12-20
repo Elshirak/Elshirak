@@ -8,5 +8,7 @@
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
+
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="650">
