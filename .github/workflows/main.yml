@@ -29,7 +29,7 @@ jobs:
           # Options
           user: elshirak
           template: classic
-          base: activity, repositories, metadata
+          base: repositories, metadata
           base_hireable: yes
           base_indepth: yes
           config_timezone: Asia/Yerevan
