@@ -24,6 +24,10 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
           # Options
           user: elshirak
@@ -42,5 +46,5 @@ jobs:
           plugin_activity_limit: 4
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+#          plugin_isocalendar: yes
+#         plugin_isocalendar_duration: half-year
