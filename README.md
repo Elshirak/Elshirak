@@ -11,14 +11,14 @@
 - Working with Git :ok_hand:
 - Python in the process of learning, can read codes :ninja:
 - Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal :penguin:
-- Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :computer:
-- Knowledge of networks, OSI, tcp/ip, http
-- Knowledge of the principles of Agile development methodology
+- Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
+- Knowledge of networks, OSI, tcp/ip, http :computer: 
+- Knowledge of the principles of Agile development methodology :heavy_check_mark:
 - English B2, looking forvard to learn :gb:
 - Armenian A2, looking forvard to learn :armenia:
-- Disciplined: able to evaluate labor costs, allocate time, maintain self-performance
-- Able to self-educate
-- Easily find a common language in team
+- Disciplined: able to evaluate labor costs, allocate time, maintain self-performance :beginner:
+- Able to self-educate :checkered_flag:
+- Easily find a common language in team :busts_in_silhouette:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
 
