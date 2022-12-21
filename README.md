@@ -7,15 +7,15 @@
  - :sparkling_heart: &nbsp;&nbsp; Fun fact: I love to play basketball and chess
 
 ## Skills
-- С/С++, understanding of OOP principles, knowledge of basic algorithms and data structures, using standard libraries
-- Working with Git
-- Python in the process of learning, can read codes
-- Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal
-- Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment
+- С/С++, understanding of OOP principles, knowledge of basic algorithms and data structures, using standard libraries :student:
+- Working with Git :ok_hand:
+- Python in the process of learning, can read codes :ninja:
+- Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal :penguin:
+- Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :computer:
 - Knowledge of networks, OSI, tcp/ip, http
 - Knowledge of the principles of Agile development methodology
-- English B2, looking forvard to learn
-- Armenian A2, looking forvard to learn
+- English B2, looking forvard to learn :gb:
+- Armenian A2, looking forvard to learn :armenia:
 - Disciplined: able to evaluate labor costs, allocate time, maintain self-performance
 - Able to self-educate
 - Easily find a common language in team
