@@ -6,6 +6,20 @@
  - 🔎 &nbsp;&nbsp; Improving: language skills
  - :sparkling_heart: &nbsp;&nbsp; Fun fact: I love to play basketball and chess
 
+## Skills
+- С/С++, understanding of OOP principles, knowledge of basic algorithms and data structures, using standard libraries
+- Working with Git
+- Python in the process of learning, can read codes
+- Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal
+- Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment
+- Knowledge of networks, OSI, tcp/ip, http
+- Knowledge of the principles of Agile development methodology
+- English B2, looking forvard to learn
+- Armenian A2, looking forvard to learn
+- Disciplined: able to evaluate labor costs, allocate time, maintain self-performance
+- Able to self-educate
+- Easily find a common language in team
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
 
 
