@@ -1,6 +1,7 @@
-# Hi, I'm Shirak
+<h1 align="center">Hi, I'm Shirak 👋</h1>
 
-## Student of Ecole 42 in Yerevan &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/68464959/208650645-c772e200-caf8-497a-9cd4-03bf28f12063.png" width="60">
+## Student of Ecole 42 in Yerevan &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/68464959/209186518-38b7fc7c-3c0a-4174-bbbc-01b31e0d3d35.png" align="right" width="120">
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Python, QA
  - 🔎 &nbsp;&nbsp; Improving: language skills
