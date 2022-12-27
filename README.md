@@ -5,7 +5,7 @@
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Python, QA
  - 🔎 &nbsp;&nbsp; Improving: language skills
- - :sparkling_heart: &nbsp;&nbsp; Fun fact: I enjoy playing  chess and basktball
+ - :sparkling_heart: &nbsp;&nbsp; Fun fact: I enjoy playing  chess and basketball
 
 ## Skills
 - С/С++, understanding of OOP principles, knowledge of basic algorithms and data structures, using standard libraries :student:
