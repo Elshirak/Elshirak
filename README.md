@@ -22,6 +22,9 @@
 - Able to self-educate :checkered_flag:
 - Easily find a common language in team :busts_in_silhouette:
 
+## My contacts
+<a href='https://t.me/elshirak'>![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
 
 
