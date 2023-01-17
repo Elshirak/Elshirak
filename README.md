@@ -16,8 +16,8 @@
 - Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
 - Knowledge of networks, OSI, tcp/ip, http :computer: 
 - Knowledge of the principles of Agile development methodology :heavy_check_mark:
-- English B2, looking forvard to learn :gb:
-- Armenian A2, looking forvard to learn :armenia:
+- English B2, looking forward to learn :gb:
+- Armenian A2, looking forward to learn :armenia:
 - Disciplined: able to evaluate labor costs, allocate time, maintain self-performance :beginner:
 - Able to self-educate :checkered_flag:
 - Easily find a common language in team :busts_in_silhouette:
