@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Shirak 👋</h1>
 
-## Student of [Ecole 42 in Yerevan](https://42yerevan.am/) &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/68464959/209187314-028e0527-0230-48fd-b365-affb612ceb0a.png" align="right" width="120">
+## Student of [Ecole 42 in Yerevan](https://42yerevan.am/) &nbsp;&nbsp; <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldj70azv00300fl3u17rbnil/stats?cursusId=21&coalitionId=undefined" alt="selbakya's 42 stats" align="right" /></a>
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Python, QA
  - 🔎 &nbsp;&nbsp; Improving: language skills
