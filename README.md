@@ -10,7 +10,7 @@
 - С, knowledge of basic algorithms and data structures, using standard libraries :student:
 - Working with Git :ok_hand:
 - Understanding of virtualization, containers. Learning Docker :whale2:
-- Python in the process of learning, using: pympler, sys, numpy, itertools :ninja:
+- Python in the process of learning, using: pympler, itertools, BeautifulSoup, requests, selenium, xlsxwriter :ninja:
 - Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal :penguin:
 - Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
 - Knowledge of networks, OSI, tcp/ip, http :computer: 
