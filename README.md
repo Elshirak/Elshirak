@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Shirak 👋 </h1>
+
 ## Student of [Ecole 42 in Yerevan](https://42yerevan.am/) &nbsp;&nbsp; <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldj70azv00300fl3u17rbnil/stats?cursusId=21&coalitionId=undefined" alt="selbakya's 42 stats" align="right" /></a>
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Python
