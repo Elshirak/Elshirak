@@ -5,7 +5,7 @@
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, C, Linux
  - 🔎 &nbsp;&nbsp; Improving: language skills
- - :sparkling_heart: &nbsp;&nbsp; Fun fact: I enjoy playing  chess and basketball
+ - :sparkling_heart: &nbsp;&nbsp; I enjoy playing chess and basketball
 
 ## Skills
 - С, knowledge of basic algorithms and data structures, using standard libraries :student:
