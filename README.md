@@ -11,7 +11,7 @@
 - С, knowledge of basic algorithms and data structures, using standard libraries :student:
 - Working with Git :ok_hand:
 - Understanding of virtualization, containers. Learning Docker :whale2:
-- Learning GitHub Actions, AWS: EC2, RDS, Lambda-function
+- Learning GitHub Actions, AWS: EC2, RDS, Lambda-function :building_construction:
 - Little bit of Python: pympler, itertools, BeautifulSoup, requests, selenium, xlsxwriter :ninja:
 - Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal :penguin:
 - Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
