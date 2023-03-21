@@ -15,8 +15,7 @@
 - Little bit of Python: pympler, itertools, BeautifulSoup, requests, selenium, xlsxwriter :ninja:
 - Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal :penguin:
 - Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
-- Knowledge of networks, OSI, tcp/ip, http :computer: 
-- Knowledge of the principles of Agile development methodology :heavy_check_mark:  <a> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> </a>
+- Knowledge of networks, OSI, tcp/ip, http :computer:  <a> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> </a>
 - English B2, looking forward to learn :gb:
 - Armenian A2, looking forward to learn :armenia: 
 - Disciplined: able to evaluate labor costs, allocate time, maintain self-performance :beginner:
