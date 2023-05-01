@@ -3,7 +3,7 @@
 
 ## Student of [Ecole 42 in Yerevan](https://42yerevan.am/) &nbsp;&nbsp; <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldj70azv00300fl3u17rbnil/stats?cursusId=21&coalitionId=undefined" alt="selbakya's 42 stats" align="right" /></a>
 
- - 🌱 &nbsp;&nbsp; Interests: DevOps, C, Linux
+ - 🌱 &nbsp;&nbsp; Interests: DevOps, Linux
  - 🔎 &nbsp;&nbsp; Improving: language skills
  - :sparkling_heart: &nbsp;&nbsp; I enjoy playing chess and basketball
 
