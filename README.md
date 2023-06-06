@@ -10,7 +10,7 @@
 ## Skills
 - С, knowledge of basic algorithms and data structures, using standard libraries :student:
 - Working with Git :ok_hand:
-- Understanding of virtualization, containers. Learning Docker :whale2:
+- Understanding of virtualization, containers. Learning k8s :whale2:
 - Learning GitHub Actions, AWS: EC2, RDS, Lambda-function :building_construction:
 - Little bit of Python: pympler, itertools, BeautifulSoup, requests, selenium, xlsxwriter :ninja:
 - Knowledge of the OS internal organization, knowledge of Linux (Ubuntu as desktop system), confident work with the terminal :penguin:
@@ -27,7 +27,7 @@
    At the university, I studied computer science disciplines: networks, programming, database, administration, computational methods of information systems, CIS, information security, etc. In addition, there were lessons on process optimization and decision making, system engineering. During training, I solved problems in C, C++, SQL, built IDEF, UML diagrams. As part of my coursework, I solved some tasks on automation and electronic document management in C++ or C# using databases, and also developed a kind of CRM system. In my thesis work, I developed a design solution for automating a set of tasks for the logistics subsystem of the ACS of a large organization. 
 <br>
 <br> 
-Now I am studying at the school of Computer Science "Ecole 42" in Yerevan, also participating in [TUMO Labs](https://tumolabs.am/en/) "Nationwide Climate Net" project. During the project, participants must design, build and deploy 78 IoT climate observatory and weather forecasting stations at [TUMO Boxes](https://tumo.org/tumo-box/) using Python & Flask -> GUnicorn -> Ngnix, some kind of firewall, all of thise staff runs on EC2 AWS Ubuntu Linux, connects to RDS and posts data to user. Data goes from Rastberry sensors to lambda-function, which parses it and writes in RDS.
+I'm currently a junior DevOps engineer at [Onlyoffice](https://www.onlyoffice.com/) maintaining .deb and .rpm packages, working with Bash scripts, GitHub Actions, Nexus repository manager, Docker, Bugzilla. 
  
  
 ## My contacts
