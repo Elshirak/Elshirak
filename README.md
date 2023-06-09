@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shirak 👋 <a href="https://github.com/Elshirak/Elshirak/blob/main/CV%20Elbakyan%20Shirak.pdf"> 
  <img align="right" width="120" src="https://img.shields.io/twitter/url?color=ghj&label=My%20%20%20CV&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FElshirak%2FElshirak%2Fblob%2Fmain%2FCV%2520Elbakyan%2520Shirak.pdf"> </h1>
 
-## Student of [Ecole 42 in Yerevan](https://42yerevan.am/) &nbsp;&nbsp; <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldj70azv00300fl3u17rbnil/stats?cursusId=21&coalitionId=undefined" alt="selbakya's 42 stats" align="right" /></a>
+
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Linux
  - 🔎 &nbsp;&nbsp; Improving: language skills
