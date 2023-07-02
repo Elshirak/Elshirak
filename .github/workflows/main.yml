@@ -24,7 +24,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.metrics_token }}
+          token: ${{ secrets.MY_TOKEN }}
 
           # Options
           user: elshirak
@@ -58,4 +58,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.metrics_token }}
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
