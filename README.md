@@ -9,9 +9,10 @@
 
 ## Skills
 - С, knowledge of basic algorithms and data structures, using standard libraries :student:
-- Working with Git :ok_hand:
-- Understanding of virtualization, containers. Learning k8s :whale2:
-- Learning GitHub Actions, AWS: EC2, RDS, Lambda-function :building_construction:
+- Working with Git, using Gitflow wokflow :ok_hand:
+- Package maintaining: writing .spec files, building .deb .rpm packages :package:
+- Understanding of virtualization, containers. Working with Docker, learning docker-compose, k8s :whale2:
+- Working with GitHub Actions, AWS EC2 :building_construction:
 - Little bit of Python: pympler, itertools, BeautifulSoup, requests, selenium, xlsxwriter :ninja:
 - Knowledge of the OS internal organization, knowledge of Linux (Fedora as desktop system), confident work with the terminal :penguin:
 - Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
