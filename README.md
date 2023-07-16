@@ -28,7 +28,7 @@
    At the university, I studied computer science disciplines: networks, programming, database, administration, computational methods of information systems, CIS, information security, etc. In addition, there were lessons on process optimization and decision making, system engineering. During training, I solved problems in C, C++, SQL, built IDEF, UML diagrams. As part of my coursework, I solved some tasks on automation and electronic document management in C++ or C# using databases, and also developed a kind of CRM system. In my thesis work, I developed a design solution for automating a set of tasks for the logistics subsystem of the ACS of a large organization. 
 <br>
 <br> 
-Maintaining .deb and .rpm packages, working with Linux, Bash scripts, GitHub Actions, Nexus repository manager, Docker, Bugzilla. 
+Maintaining .deb and .rpm packages, working with Linux(RHEL, Debian-based), Bash scripts, GitHub Actions, Nexus repository manager, Docker, Bugzilla. 
  
  
 ## My contacts
