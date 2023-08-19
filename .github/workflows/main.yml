@@ -14,15 +14,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.MY_TOKEN }}
           user: ELSHIRAK
           template: classic
           base: community, repositories, metadata
           config_timezone: Asia/Yerevan
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -35,7 +36,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_people: yes
-          plugin_people_limit: 11
+          plugin_people_limit: 7
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
