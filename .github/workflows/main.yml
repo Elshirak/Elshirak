@@ -21,9 +21,6 @@ jobs:
           template: classic
           base: metadata
           config_timezone: Asia/Yerevan
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
