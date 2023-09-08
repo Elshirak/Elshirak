@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Shirak 👋 <a href="https://github.com/Elshirak/Elshirak/blob/38ec35e1d1b555099f8c89a3d9410c73609caee1/CV%20DevOps%20Elbakyan.pdf"> 
- <img align="right" width="120" src="https://img.shields.io/twitter/url?color=ghj&label=MY%20%20%20CV&style=for-the-badge&url=https://github.com/Elshirak/Elshirak/blob/38ec35e1d1b555099f8c89a3d9410c73609caee1/CV%20DevOps%20Elbakyan.pdf"> </h1>
+<h1 align="center">Hi, I'm Shirak 👋 
+<a [my CV](https://github.com/Elshirak/Elshirak/blob/38ec35e1d1b555099f8c89a3d9410c73609caee1/CV%20DevOps%20Elbakyan.pdf)> 
+</h1>
 
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Linux
