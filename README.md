@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shirak 👋 <a href="https://github.com/Elshirak/Elshirak/blob/main/CV%20Elbakyan%20Shirak.pdf"> 
+<h1 align="center">Hi, I'm Shirak 👋 <a href="[https://github.com/Elshirak/Elshirak/blob/main/CV%20Elbakyan%20Shirak.pdf](https://github.com/Elshirak/Elshirak/blob/main/CV%20DevOps%20Elbakyan.pdf)"> 
  <img align="right" width="120" src="https://img.shields.io/twitter/url?color=ghj&label=My%20%20%20CV&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FElshirak%2FElshirak%2Fblob%2Fmain%2FCV%2520Elbakyan%2520Shirak.pdf"> </h1>
 
 
