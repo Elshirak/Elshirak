@@ -24,12 +24,18 @@
 - Easily find a common language in team :busts_in_silhouette:
 
 
-## Experience
-   At the university, I studied computer science disciplines: networks, programming, database, administration, computational methods of information systems, CIS, information security, etc. In addition, there were lessons on process optimization and decision making, system engineering. During training, I solved problems in C, C++, SQL, built IDEF, UML diagrams. As part of my coursework, I solved some tasks on automation and electronic document management in C++ or C# using databases, and also developed a kind of CRM system. In my thesis work, I developed a design solution for automating a set of tasks for the logistics subsystem of the ACS of a large organization. 
-<br>
-<br>
-Maintaining .deb and .rpm packages, working with Linux(RHEL, Debian-based), Bash scripts, GitHub Actions, Nexus repository manager, Docker, Bugzilla. 
- 
+## Experience :stars:
+  I have worked extensively on the packaging and distribution of a product with a microservices architecture(configured OpenResty, NGINX, RabbitMQ, Redis, ELK, PostgreSQL), utilizing .deb and .rpm formats. This involved deployment on various hardware architectures (x86_64, aarch64) and different versions of GNU/Linux operating systems. I use GitHub Actions as a Continuous Integration (CI) tool and utilized the Nexus repository manager and Bugzilla for project management. Additionally, I leveraged Docker for containerization and automated build processes through Bash scripting. I am well-versed in the Gitflow workflow methodology. Currently, I am actively expanding my knowledge by exploring cloud provider services, such as AWS EC2, and have a keen interest in Kubernetes (k8s). <br> <br>
+  During my university studies, I acquired a strong foundation in computer science through coursework encompassing networks, computer architecture, programming, databases, operating systems, systems administration, computational methods in information systems, computer information systems, and information security, among other subjects. Notably, I engaged in captivating courses related to process optimization, decision-making, and systems engineering. Throughout my academic journey, I solved problems using languages like C, C++, and SQL, and I created IDEF and UML diagrams. In my final thesis, I designed a comprehensive solution for automating logistics subsystem tasks within a major construction organization's Automated Control System.
+   
+
+
+ ## Sertificates :trophy:
+ - On Linux :penguin: <br>
+My [sertificate](https://github.com/Elshirak/Elshirak/blob/2693b3c0f5f966afda46dd51bdf6c9fc16251622/LPI%20Linux%20Essentials%20certificate.pdf) based on the results of the Linux Essentials exam from [Linux Professional Institute](https://www.lpi.org/)
+- On cybersecurity :shield: <br>
+My [sertificate](https://github.com/Elshirak/Elshirak/blob/2693b3c0f5f966afda46dd51bdf6c9fc16251622/LPI%20Security%20Essentials%20certificate.pdf) based on the results of the Security Essentials exam from [Linux Professional Institute](https://www.lpi.org/) <br> <br>
+To verify authenticity of sertificates click [here](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000578721/3jakp6krja)
  
 ## My contacts
 [//]: <> (<a href="https://www.linkedin.com/in/elshirak/"> <img alt="LinkedI URL" src="https://img.shields.io/twitter/url?color=blue&label=Me%20on%20LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felshirak%2F" width="180"> </a>)
