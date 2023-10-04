@@ -26,7 +26,6 @@
 
 ## Experience :stars:
   I have worked extensively on the packaging and distribution of a product with a microservices architecture(configured OpenResty, NGINX, RabbitMQ, Redis, ELK, PostgreSQL), utilizing .deb and .rpm formats. This involved deployment on various hardware architectures (x86_64, aarch64) and different versions of GNU/Linux operating systems. I use GitHub Actions as a Continuous Integration (CI) tool and utilized the Nexus repository manager and Bugzilla for project management. Additionally, I leveraged Docker for containerization and automated build processes through Bash scripting. I am well-versed in the Gitflow workflow methodology. Currently, I am actively expanding my knowledge by exploring cloud provider services, such as AWS EC2, and have a keen interest in Kubernetes. <br> <br>
-  During my university studies, I acquired a strong foundation in computer science through coursework encompassing networks, computer architecture, programming, databases, operating systems, systems administration, computational methods in information systems, computer information systems, and information security, among other subjects. Notably, I engaged in captivating courses related to process optimization, decision-making, and systems engineering. Throughout my academic journey, I solved problems using languages like C, C++, and SQL, and I created IDEF and UML diagrams. In my final thesis, I designed a comprehensive solution for automating logistics subsystem tasks within a major construction organization's Automated Control System.
    
 
 
