@@ -22,6 +22,10 @@ jobs:
           base: metadata
           config_timezone: Asia/Yerevan
           plugin_languages: yes
+          filename: metrics.plugin.leetcode.svg
+          plugin_leetcode: yes
+          plugin_leetcode_user: elshirak
+          plugin_leetcode_sections: solved, skills, recent
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
