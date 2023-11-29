@@ -1,0 +1,27 @@
+name: Notify on Workflow Completion
+
+on:
+  workflow_run:
+    workflows: ["Metrics"]
+    types:
+      - completed
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: send telegram message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            if [[ "${{ github.event.workflow_run.conclusion }}" == "success" ]]; then
+              echo "Workflow successfully completed! :white_check_mark: :white_check_mark: :white_check_mark:"
+            else echo "Workflow failed :x::x::x:"
+            
+            ${{ github.actor }} created commit
+            Commit message: ${{ github.event.commits[0].message }}
+            Repository: ${{ github.repository }}
+            
+            See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
