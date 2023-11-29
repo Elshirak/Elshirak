@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.MY_TOKEN }}
+          token: ${{ secrets.MY_TOKEN7 }}
           user: ELSHIRAK
           template: classic
           base: metadata
