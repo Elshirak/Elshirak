@@ -44,4 +44,4 @@ To verify authenticity of sertificates click [here](https://cs.lpi.org/caf/Xamma
 ![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
 
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="650">
+<img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="650">
