@@ -41,7 +41,6 @@ To verify authenticity of sertificates click [here](https://cs.lpi.org/caf/Xamma
 <a href="https://t.me/elshirak"> <img alt="TelegrM URL" src="https://img.shields.io/twitter/url?label=Me%20on%20Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Felshirak" width="180">
 <img align="right" src="https://komarev.com/ghpvc/?username=Elshirak" width="150"></a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/elshirak/elshirak/output/github-contribution-grid-snake.svg)
 
 
 <img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="650">
