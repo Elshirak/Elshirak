@@ -2,9 +2,6 @@
 <a [my CV](https://github.com/Elshirak/Elshirak/blob/38ec35e1d1b555099f8c89a3d9410c73609caee1/CV%20DevOps%20Elbakyan.pdf)> 
 </h1>
 
-
- - 🌱 &nbsp;&nbsp; Interests: DevOps, Linux
-
 ## Experience :stars:
   I have worked extensively on the packaging and distribution of a product with a microservices architecture(configured OpenResty, NGINX, RabbitMQ, Redis, ELK, PostgreSQL, MySQL), utilizing .deb and .rpm formats. This involved deployment on various hardware architectures (x86_64, aarch64) and different versions of GNU/Linux operating systems. I use GitHub Actions as a Continuous Integration (CI) tool and utilized the Nexus repository manager and Bugzilla or Jira(also Focalboard) for project management. Additionally, I leveraged Docker for containerization and automated build processes through Bash scripting. I am well-versed in the Gitflow workflow methodology. Currently, I am actively expanding my knowledge by exploring cloud provider services. Working with GCP - GKE,  AWS - EC2, and have a keen interest in Kubernetes. <br> <br>
    
