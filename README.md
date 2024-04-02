@@ -4,28 +4,9 @@
 
 
  - 🌱 &nbsp;&nbsp; Interests: DevOps, Linux
- - 🔎 &nbsp;&nbsp; Improving: language skills
- - :sparkling_heart: &nbsp;&nbsp; I enjoy playing chess and basketball
-
-## Skills
-- С, knowledge of basic algorithms and data structures, using standard libraries :student:
-- Working with Git, using Gitflow wokflow :ok_hand:
-- Package maintaining: writing .spec files, building .deb .rpm packages :package:
-- Understanding of virtualization, containers. Working with Docker, learning docker-compose, k8s :whale2:
-- Working with GitHub Actions, AWS EC2 :building_construction:
-- Little bit of Python: pympler, itertools, BeautifulSoup, requests, selenium, xlsxwriter :ninja:
-- Knowledge of the OS internal organization, knowledge of Linux (Fedora as desktop system), confident work with the terminal :penguin:
-- Understanding of hardware: I assembled computers, set up a working environment, networks, office equipment :electric_plug:
-- Knowledge of networks, OSI, tcp/ip, http :computer:  <a> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> </a>
-- English B2, looking forward to learn :gb:
-- Armenian A2, looking forward to learn :armenia: 
-- Disciplined: able to evaluate labor costs, allocate time, maintain self-performance :beginner:
-- Able to self-educate :checkered_flag:
-- Easily find a common language in team :busts_in_silhouette:
-
 
 ## Experience :stars:
-  I have worked extensively on the packaging and distribution of a product with a microservices architecture(configured OpenResty, NGINX, RabbitMQ, Redis, ELK, PostgreSQL), utilizing .deb and .rpm formats. This involved deployment on various hardware architectures (x86_64, aarch64) and different versions of GNU/Linux operating systems. I use GitHub Actions as a Continuous Integration (CI) tool and utilized the Nexus repository manager and Bugzilla for project management. Additionally, I leveraged Docker for containerization and automated build processes through Bash scripting. I am well-versed in the Gitflow workflow methodology. Currently, I am actively expanding my knowledge by exploring cloud provider services, such as AWS EC2, and have a keen interest in Kubernetes. <br> <br>
+  I have worked extensively on the packaging and distribution of a product with a microservices architecture(configured OpenResty, NGINX, RabbitMQ, Redis, ELK, PostgreSQL, MySQL), utilizing .deb and .rpm formats. This involved deployment on various hardware architectures (x86_64, aarch64) and different versions of GNU/Linux operating systems. I use GitHub Actions as a Continuous Integration (CI) tool and utilized the Nexus repository manager and Bugzilla or Jira(also Focalboard) for project management. Additionally, I leveraged Docker for containerization and automated build processes through Bash scripting. I am well-versed in the Gitflow workflow methodology. Currently, I am actively expanding my knowledge by exploring cloud provider services. Working with GCP - GKE,  AWS - EC2, and have a keen interest in Kubernetes. <br> <br>
    
 
 
